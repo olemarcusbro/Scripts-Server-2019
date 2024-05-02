@@ -1,0 +1,1 @@
+wscript.echo"Hei og velkommen til GamasjerAS, det er viktig at de er kjent med relger og rettigheter i firmaet. Kontakt IT-Avdelingen om du trenger hjelp. +47 91145351"
