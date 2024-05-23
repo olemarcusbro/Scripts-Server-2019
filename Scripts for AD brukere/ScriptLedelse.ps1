@@ -34,10 +34,10 @@ function CreateADUser($firstName, $lastName, $phoneNumber, $email) {
 }
 
 # Example usage:
-CreateADUser "Shelby","Boyd","4132839869","megire_lija76@yahoo.com"
-CreateADUser "Patience","Choi","4737408100","nosekis_avu99@yahoo.com"
-CreateADUser "Weston","Wolfe","3427302001","yuna-bopugi67@outlook.com"
-CreateADUser "Natalia","Tate","4092681000","piveyet-abi9@gmail.com"
-CreateADUser "Monserrat","Weiss","5216416444","pacode_ducu8@outlook.com"
-CreateADUser "Lennon","Macdonald","6379847163","mirilev_ipo28@mail.com"
-CreateADUser "Alina","Mueller","6003975340","xuluv_atina17@yahoo.com"
+CreateADUser "Shelby" "Boyd" "4132839869" "megire_lija76@yahoo.com"
+CreateADUser "Patience" "Choi" "4737408100" "nosekis_avu99@yahoo.com"
+CreateADUser "Weston" "Wolfe" "3427302001" "yuna-bopugi67@outlook.com"
+CreateADUser "Natalia" "Tate" "4092681000" "piveyet-abi9@gmail.com"
+CreateADUser "Monserrat" "Weiss" "5216416444" "pacode_ducu8@outlook.com"
+CreateADUser "Lennon" "Macdonald" "6379847163" "mirilev_ipo28@mail.com"
+CreateADUser "Alina" "Mueller" "6003975340" "xuluv_atina17@yahoo.com"
